@@ -9,5 +9,5 @@ Don't worry, the below keys have an explicit deny * * policy attached. This is e
 
 
 It looks like the autoamted quartine action only occurs once on a given key-pair, regardless of whether it's been deactivated and reactived, or the quarantine policy has been removed.
-- AKIA3EJ2KHUUJZ6XDEV3
-- gkzRkvXFhd9LnU3Mmrq66PHGUWYBx/8vfkK52c15
+- AKIA3EJ2KHUUL24UO3FP
+- ARfBhfRvcgUBwotGiL38tVmbRe5/9n3P2rW9i4/Y
