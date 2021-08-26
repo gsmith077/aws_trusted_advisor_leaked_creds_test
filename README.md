@@ -6,3 +6,8 @@ Don't worry, the below keys have an explicit deny * * policy attached. This is e
 
 - AKIA3EJ2KHUUODDAV2GI
 - zhdUBaxeUQmOniqMupgH5i+tcr97OirRXOL0yBTv
+
+
+It looks like the autoamted quartine action only occurs once on a given key-pair, regardless of whether it's been deactivated and reactived, or the quarantine policy has been removed.
+- AKIA3EJ2KHUUDDENSW4R
+- 1zjwN8IX7iY8Y9/Lt/ULL97VAshBFDPqYDA2TOa6
