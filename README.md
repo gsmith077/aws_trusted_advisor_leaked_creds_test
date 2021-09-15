@@ -8,22 +8,11 @@ The following leaked keys have explicit deny all policies attached, and are bein
 
 Don't worry, the below keys have an explicit deny * * policy attached. This is exposed to assist in working around the Trusted Advisor checks, as per [This repo](https://github.com/aws/Trusted-Advisor-Tools/blob/master/ExposedAccessKeys/README.md).
 
-- AKIA3EJ2KHUUIKDS4ICZ
-- medeaXbupJgpnbDXhokk6ftcL4FSKHYDaIDuRytt
+Keys removed.
 
 
 It looks like the autoataed quartine action only occurs once on a given key-pair, regardless of whether it's been deactivated and reactived, or the quarantine policy has been removed.
 
-- AKIA3EJ2KHUUFBYWFAPP
-- i1ZKdu6DoBnOBRdPCk1GcUvzmv2HV5GDAWg+ncDR
-
 ## User B:
 
-- AKIAXXGJ2GM2WF3MVLNC
-- ih+qFgU29oNkIkaPIK9kDi+a2xbvQQRlLwRHt6Qd
-
-- AKIAXXGJ2GM2SBELDW4X
-- FevvZZlvN5jrf+KmuaIo37oHXNUWeh8I3VwcPQsG
-
-
-
+Keys removed.
