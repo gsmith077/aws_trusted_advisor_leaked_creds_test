@@ -10,6 +10,6 @@ Don't worry, the below keys have an explicit deny * * policy attached. This is e
 
 User name: `leaked-cred-tester`
 
-Acess key ID: `AKIATAZ6CVQ5YPAJQZ3T`
+Acess key ID: 
 
-Secret access key: `WzgEypbqWr1012IPhYjKvMXEDypHSqllrSlxJ9u5`
+Secret access key: 
