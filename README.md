@@ -18,7 +18,7 @@ https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free
 
 User name: `leaked_key_test`
 
-Acess key ID: `AKIATAZ6CVQ5YAQGXOUR`
+Acess key ID: AKIATAZ6CVQ5YAQGXOUR
 
-Secret access key: `t6Y9WjL2cNp1PQgkx77m2Mtk4r2pl`
+Secret access key: t6Y9WjL2cNp1PQgkx77m2Mtk4r2pl
 
