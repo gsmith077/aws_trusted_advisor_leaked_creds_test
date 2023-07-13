@@ -12,9 +12,9 @@ These keys are exposed to assist in working around the Trusted Advisor checks, a
 
 ## User A:
 
-User name: `audit-8.9-cred-leaker`
+User name: `leaked_key_test`
 
-Acess key ID: `AKIATAZ6CVQ55KK7LEJE`
+Acess key ID: `AKIATAZ6CVQ5YAQGXOUR`
 
-Secret access key: `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`
+Secret access key: `t6Y9WjL2cNp1PQgkx77m2Mtk4r2pl`
 
