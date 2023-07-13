@@ -10,6 +10,10 @@ mechanisms to meet the control as per requirements.
 These keys are exposed to assist in working around the Trusted Advisor checks, as per 
 [This repo](https://github.com/aws/Trusted-Advisor-Tools/blob/master/ExposedAccessKeys/README.md).
 
+It appears that changes to the secret scanning may have changed the detection. Enabled on repo, this push is to trigger detection.
+
+https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/
+
 ## User A:
 
 User name: `leaked_key_test`
